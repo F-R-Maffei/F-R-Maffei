@@ -38,7 +38,7 @@
 ![MYSQL](img/mysql.png)   ![POSTGRESQL](img/postgresql.png)  
 
 #### **Deploy**
-![GIT](img/git.png)   ![GITHUB](img/github.png)   
+![GIT](img/Git.png)   ![GITHUB](img/github.png)   
 
 #### **Editor**
 ![VSCODE](img/vscode.png)
